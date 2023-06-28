@@ -5,9 +5,11 @@ internal class ConversaoImplicita
     static void Main(string[] args)
     {
         double a;
-        float b;
+        int b;
 
         a = 5.1;
-        b = (float)a;
+        b = (int)a;
+
+        Console.WriteLine(b);
     }
 }
