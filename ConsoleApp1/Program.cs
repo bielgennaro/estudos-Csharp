@@ -4,16 +4,18 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        bool completo = false;
+        var completo = false;
         byte n1 = 254;
-        int n2 = 1000;
-        int n3 = 2147483647;
+        var n2 = 1000;
+        var n3 = 2147483647;
         long n4 = 2147483648;
-        char letra = '\u032b';
-        float n5 = 4.5f;
-        string nome = "Gabriel";
+        var letra = '\u032b';
+        var n5 = 4.5f;
+        var nome = "Gabriel";
         object obj1 = "Manu";
+        var dec = decimal.MaxValue;
 
+        Console.WriteLine(dec);
         Console.WriteLine(obj1);
         Console.WriteLine(nome);
         Console.WriteLine(n1);

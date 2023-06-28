@@ -7,4 +7,17 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+        <Compile Remove="SaidaDeDados.cs"/>
+        <Compile Remove="NewDirectory1\**"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <EmbeddedResource Remove="NewDirectory1\**"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <None Remove="NewDirectory1\**"/>
+    </ItemGroup>
+
 </Project>
