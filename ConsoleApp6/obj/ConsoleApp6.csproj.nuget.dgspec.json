@@ -1,24 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\www\\ConsoleApp1\\ConsoleApp6\\ConsoleApp6.csproj": {}
+    "/home/runner/RiderProjects/estudos-Csharp/ConsoleApp6/ConsoleApp6.csproj": {}
   },
   "projects": {
-    "C:\\www\\ConsoleApp1\\ConsoleApp6\\ConsoleApp6.csproj": {
+    "/home/runner/RiderProjects/estudos-Csharp/ConsoleApp6/ConsoleApp6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\www\\ConsoleApp1\\ConsoleApp6\\ConsoleApp6.csproj",
+        "projectUniqueName": "/home/runner/RiderProjects/estudos-Csharp/ConsoleApp6/ConsoleApp6.csproj",
         "projectName": "ConsoleApp6",
-        "projectPath": "C:\\www\\ConsoleApp1\\ConsoleApp6\\ConsoleApp6.csproj",
-        "packagesPath": "C:\\Users\\biel\\.nuget\\packages\\",
-        "outputPath": "C:\\www\\ConsoleApp1\\ConsoleApp6\\obj\\",
+        "projectPath": "/home/runner/RiderProjects/estudos-Csharp/ConsoleApp6/ConsoleApp6.csproj",
+        "packagesPath": "/home/runner/.nuget/packages/",
+        "outputPath": "/home/runner/RiderProjects/estudos-Csharp/ConsoleApp6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\biel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
@@ -50,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/runner/.dotnet/sdk/7.0.305/RuntimeIdentifierGraph.json"
         }
       }
     }
