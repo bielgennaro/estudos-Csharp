@@ -1,0 +1,15 @@
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/bin/Debug/net7.0/ConsoleApp13
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/bin/Debug/net7.0/ConsoleApp13.deps.json
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/bin/Debug/net7.0/ConsoleApp13.runtimeconfig.json
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/bin/Debug/net7.0/ConsoleApp13.dll
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/bin/Debug/net7.0/ConsoleApp13.pdb
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.csproj.AssemblyReference.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.AssemblyInfoInputs.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.AssemblyInfo.cs
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.csproj.CoreCompileInputs.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.dll
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/refint/ConsoleApp13.dll
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.pdb
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.genruntimeconfig.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp13/obj/Debug/net7.0/ref/ConsoleApp13.dll
