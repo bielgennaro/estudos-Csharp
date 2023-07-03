@@ -4,7 +4,7 @@ namespace ConsoleApp19;
 
 internal class Program
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
         Pessoa pessoa1, pessoa2, funcionario1, funcionario2;
         pessoa1 = new Pessoa();
@@ -26,13 +26,9 @@ internal class Program
         pessoa2.idade = int.Parse(Console.ReadLine());
 
         if (pessoa1.idade > pessoa2.idade)
-        {
             Console.WriteLine($"{pessoa1.nome} é mais velha", pessoa1.nome);
-        }
         else
-        {
             Console.WriteLine($"{pessoa2.nome} é mais velha", pessoa2.nome);
-        }
 
         Console.WriteLine("Dados do primeiro funcionário: ");
         Console.Write("Nome: ");
@@ -46,8 +42,8 @@ internal class Program
         Console.Write("Salário: ");
         funcionario2.salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-        List<double> MediaSalario = new List<double> { funcionario1.salario, funcionario2.salario };
-        double media = MediaSalario.Average();
+        var MediaSalario = new List<double> { funcionario1.salario, funcionario2.salario };
+        var media = MediaSalario.Average();
 
         Console.WriteLine("Salário médio = {0}", media.ToString("F2", CultureInfo.InvariantCulture));
     }

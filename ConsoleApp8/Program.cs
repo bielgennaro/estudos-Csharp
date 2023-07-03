@@ -2,17 +2,17 @@
 
 internal class EntradaDeDados
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
-        string frase = Console.ReadLine();
-        string x = Console.ReadLine();
-        string y = Console.ReadLine();
-        string z = Console.ReadLine();
+        var frase = Console.ReadLine();
+        var x = Console.ReadLine();
+        var y = Console.ReadLine();
+        var z = Console.ReadLine();
 
-        string[] vet = Console.ReadLine().Split(' ');
-        string a = vet[0];
-        string b = vet[1];
-        string c = vet[2];
+        var vet = Console.ReadLine().Split(' ');
+        var a = vet[0];
+        var b = vet[1];
+        var c = vet[2];
 
         Console.WriteLine("Você digitou: ");
         Console.WriteLine(frase);
@@ -24,4 +24,3 @@ internal class EntradaDeDados
         Console.WriteLine(c);
     }
 }
-

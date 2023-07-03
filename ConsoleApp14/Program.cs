@@ -2,37 +2,30 @@
 
 internal class MaiorQue
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
         Console.WriteLine("Digite três números: ");
-        int n1 = int.Parse(Console.ReadLine());
-        int n2 = int.Parse(Console.ReadLine());
-        int n3 = int.Parse(Console.ReadLine());
+        var n1 = int.Parse(Console.ReadLine());
+        var n2 = int.Parse(Console.ReadLine());
+        var n3 = int.Parse(Console.ReadLine());
 
         double resultado = Maior(n1, n2, n3);
-        
+
 
         Console.WriteLine("Maior = " + resultado);
     }
 
-    static int Maior(int a, int b, int c)
+    private static int Maior(int a, int b, int c)
     {
         int m;
 
         if (a > b && a > c)
-        {
             m = a;
-        }
         else if (b > c)
-        {
             m = b;
-        }
         else
-        {
             m = c;
-        }
 
         return m;
     }
 }
-

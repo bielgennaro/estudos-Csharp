@@ -1,20 +1,14 @@
-﻿using System;
+﻿namespace ConsoleApp13;
 
-namespace ConsoleApp13
+internal class Escopos
 {
-    internal class Escopos
+    private static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            double preco = double.Parse(Console.ReadLine());
-            double desconto = 0.0;
+        var preco = double.Parse(Console.ReadLine());
+        var desconto = 0.0;
 
-            if (preco > 100.0)
-            {
-                desconto = preco * 0.1;
-            }
-            
-            Console.WriteLine(desconto);
-        }
+        if (preco > 100.0) desconto = preco * 0.1;
+
+        Console.WriteLine(desconto);
     }
 }

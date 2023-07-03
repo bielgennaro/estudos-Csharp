@@ -2,7 +2,7 @@
 
 internal class ConversaoImplicita
 {
-    static void Main(string[] args)
+    private static void Main(string[] args)
     {
         double a;
         int b;

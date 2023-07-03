@@ -12,6 +12,7 @@ internal class SaidaDeDados
 
         Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2:F2} reais", nome, idade, saldo); //placeholder
         Console.WriteLine($"{nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais"); //interpolação
-        Console.WriteLine(nome + "tem" + idade + "anos" + "e tem saldo igual a" + saldo.ToString("F2", CultureInfo.InvariantCulture) + "reais"); //concatenação;
+        Console.WriteLine(nome + "tem" + idade + "anos" + "e tem saldo igual a" +
+                          saldo.ToString("F2", CultureInfo.InvariantCulture) + "reais"); //concatenação;
     }
 }
