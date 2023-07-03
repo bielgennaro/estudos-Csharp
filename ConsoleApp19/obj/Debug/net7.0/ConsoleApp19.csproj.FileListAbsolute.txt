@@ -1,0 +1,15 @@
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/bin/Debug/net7.0/ConsoleApp19
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/bin/Debug/net7.0/ConsoleApp19.deps.json
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/bin/Debug/net7.0/ConsoleApp19.runtimeconfig.json
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/bin/Debug/net7.0/ConsoleApp19.dll
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/bin/Debug/net7.0/ConsoleApp19.pdb
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.csproj.AssemblyReference.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.AssemblyInfoInputs.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.AssemblyInfo.cs
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.csproj.CoreCompileInputs.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.dll
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/refint/ConsoleApp19.dll
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.pdb
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.genruntimeconfig.cache
+/home/runner/RiderProjects/estudos-Csharp/ConsoleApp19/obj/Debug/net7.0/ref/ConsoleApp19.dll
