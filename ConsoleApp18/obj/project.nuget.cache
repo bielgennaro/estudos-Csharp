@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dbvbV9hEvhy6JW0ZOY5xt4xzaRzjZhKFYMw6lS3PWWLHW1ptYH8b00eOiFbz4dJsLGWV8Ho+siJT9udqz8WmnQ==",
+  "dgSpecHash": "kagKHoRmPHAfK9c2zybACej2S0jI/8W538NjhuAG6o0aQVLWlGYR4mESKyFQwZidlRKBHpoq3wNdbC7f+MRZcw==",
   "success": true,
-  "projectFilePath": "/home/runner/RiderProjects/estudos-Csharp/ConsoleApp18/ConsoleApp18.csproj",
+  "projectFilePath": "C:\\estudos-Csharp\\ConsoleApp18\\ConsoleApp18.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

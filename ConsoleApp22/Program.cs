@@ -8,7 +8,6 @@ internal class Program
     {
         var calc = new Calculadora();
 
-
         Console.WriteLine("Entre o valor do raio: ");
         var raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 

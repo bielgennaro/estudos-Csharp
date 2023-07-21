@@ -8,19 +8,35 @@ public class Produto
     public double Preco;
     public int Quantidade;
 
+    public Produto()
+    {
+    }
+
+    public Produto(string nome, double preco, int quantidade)
+    {
+        Nome = nome;
+        Preco = preco;
+        Quantidade = quantidade;
+    }
+
+    public string GetNome()
+    {
+        return Nome;
+    }
+
     public double ValorTotalEmEstoque()
     {
         return Preco * Quantidade;
     }
 
-    public void AdicionarProdutos(int quantidade)
+    public void AdicionarProdutos(int _quantidade)
     {
-        Quantidade += quantidade;
+        _quantidade += _quantidade;
     }
 
-    public void RemoverProduto(int quantidade)
+    public void RemoverProduto(int _quantidae)
     {
-        Quantidade -= quantidade;
+        Quantidade -= Quantidade;
     }
 
     public override string ToString()

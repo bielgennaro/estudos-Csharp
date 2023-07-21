@@ -1,0 +1,15 @@
+C:\estudos-Csharp\ConsoleApp24\bin\Debug\net7.0\ConsoleApp24.exe
+C:\estudos-Csharp\ConsoleApp24\bin\Debug\net7.0\ConsoleApp24.deps.json
+C:\estudos-Csharp\ConsoleApp24\bin\Debug\net7.0\ConsoleApp24.runtimeconfig.json
+C:\estudos-Csharp\ConsoleApp24\bin\Debug\net7.0\ConsoleApp24.dll
+C:\estudos-Csharp\ConsoleApp24\bin\Debug\net7.0\ConsoleApp24.pdb
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.csproj.AssemblyReference.cache
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.AssemblyInfoInputs.cache
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.AssemblyInfo.cs
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.dll
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\refint\ConsoleApp24.dll
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.pdb
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ConsoleApp24.genruntimeconfig.cache
+C:\estudos-Csharp\ConsoleApp24\obj\Debug\net7.0\ref\ConsoleApp24.dll
