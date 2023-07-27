@@ -20,6 +20,8 @@
     <projectFile>ConsoleApp22/ConsoleApp22.csproj</projectFile>
     <projectFile>ConsoleApp23/ConsoleApp23.csproj</projectFile>
     <projectFile>ConsoleApp24/ConsoleApp24.csproj</projectFile>
+    <projectFile>ConsoleApp25/ConsoleApp25.csproj</projectFile>
+    <projectFile>ConsoleApp26/ConsoleApp26.csproj</projectFile>
     <projectFile>ConsoleApp3/ConsoleApp3.csproj</projectFile>
     <projectFile>ConsoleApp4/ConsoleApp4.csproj</projectFile>
     <projectFile>ConsoleApp6/ConsoleApp6.csproj</projectFile>
@@ -32,242 +34,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="591bb43d-f0b5-401b-b3ee-52c833733363" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/ConsoleApp23.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/ContaBancaria.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/ConsoleApp23.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/ConsoleApp23.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/ConsoleApp23.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/Debug/net7.0/ConsoleApp23.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/Debug/net7.0/ConsoleApp23.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/Debug/net7.0/ConsoleApp23.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/Debug/net7.0/ConsoleApp23.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/Debug/net7.0/ConsoleApp23.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp23/obj/rider.project.restore.info" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/ConsoleApp24.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/bin/Debug/net7.0/ConsoleApp24.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/bin/Debug/net7.0/ConsoleApp24.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/ConsoleApp24.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/ConsoleApp24.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/ConsoleApp24.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.GlobalUsings.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/Debug/net7.0/ConsoleApp24.genruntimeconfig.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/project.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/project.packagespec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ConsoleApp24/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/ConsoleApp25.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/ConsoleApp25.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/ConsoleApp25.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/ConsoleApp25.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/Debug/net7.0/ConsoleApp25.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/Debug/net7.0/ConsoleApp25.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/Debug/net7.0/ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/Debug/net7.0/ConsoleApp25.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/Debug/net7.0/ConsoleApp25.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp25/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/ConsoleApp26.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/ConsoleApp26.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/ConsoleApp26.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/ConsoleApp26.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/Debug/net7.0/ConsoleApp26.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/Debug/net7.0/ConsoleApp26.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/Debug/net7.0/ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/Debug/net7.0/ConsoleApp26.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/Debug/net7.0/ConsoleApp26.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConsoleApp26/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ConsoleApp1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/ConsoleApp1.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp1/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/ConsoleApp10.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/ConsoleApp10.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/ConsoleApp10.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/ConsoleApp10.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/Debug/net7.0/ConsoleApp10.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp10/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp10/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/ConsoleApp11.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/ConsoleApp11.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/ConsoleApp11.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/ConsoleApp11.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/ConsoleApp11.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/ConsoleApp11.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/Debug/net7.0/ConsoleApp11.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp11/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp11/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/ConsoleApp12.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/ConsoleApp12.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/ConsoleApp12.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/ConsoleApp12.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/Debug/net7.0/ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/Debug/net7.0/ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/Debug/net7.0/ConsoleApp12.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/Debug/net7.0/ConsoleApp12.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/Debug/net7.0/ConsoleApp12.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp12/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp12/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/ConsoleApp13.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/ConsoleApp13.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/ConsoleApp13.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/ConsoleApp13.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/Debug/net7.0/ConsoleApp13.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp13/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp13/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/ConsoleApp14.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/ConsoleApp14.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/ConsoleApp14.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/ConsoleApp14.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/Debug/net7.0/ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/Debug/net7.0/ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/Debug/net7.0/ConsoleApp14.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/Debug/net7.0/ConsoleApp14.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/Debug/net7.0/ConsoleApp14.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp14/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp14/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/ConsoleApp15.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/ConsoleApp15.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/ConsoleApp15.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/ConsoleApp15.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/Debug/net7.0/ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/Debug/net7.0/ConsoleApp15.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/Debug/net7.0/ConsoleApp15.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/Debug/net7.0/ConsoleApp15.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/Debug/net7.0/ConsoleApp15.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp15/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp15/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/ConsoleApp16.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/ConsoleApp16.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/ConsoleApp16.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/ConsoleApp16.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/Debug/net7.0/ConsoleApp16.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp16/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp16/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/ConsoleApp18.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/ConsoleApp18.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/ConsoleApp18.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/ConsoleApp18.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/Debug/net7.0/ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/Debug/net7.0/ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/Debug/net7.0/ConsoleApp18.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/Debug/net7.0/ConsoleApp18.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/Debug/net7.0/ConsoleApp18.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp18/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp18/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/ConsoleApp19.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/ConsoleApp19.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/ConsoleApp19.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/ConsoleApp19.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/Debug/net7.0/ConsoleApp19.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp19/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp19/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/ConsoleApp2.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp2/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/Produto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/Produto.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/ConsoleApp20.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/ConsoleApp20.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/ConsoleApp20.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/ConsoleApp20.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/Debug/net7.0/ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/Debug/net7.0/ConsoleApp20.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/Debug/net7.0/ConsoleApp20.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/Debug/net7.0/ConsoleApp20.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/Debug/net7.0/ConsoleApp20.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp20/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp20/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/ConsoleApp21.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/ConsoleApp21.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/ConsoleApp21.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/ConsoleApp21.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/Debug/net7.0/ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/Debug/net7.0/ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/Debug/net7.0/ConsoleApp21.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/Debug/net7.0/ConsoleApp21.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/Debug/net7.0/ConsoleApp21.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp21/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp21/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/ConsoleApp22.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/ConsoleApp22.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/ConsoleApp22.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/ConsoleApp22.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/Debug/net7.0/ConsoleApp22.genruntimeconfig.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp22/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp22/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/ConsoleApp3.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/ConsoleApp3.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/ConsoleApp3.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/ConsoleApp3.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/Debug/net7.0/ConsoleApp3.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp23/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp23/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConsoleApp24/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp24/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp3/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp3/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/ConsoleApp4.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/ConsoleApp4.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/ConsoleApp4.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/ConsoleApp4.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/ConsoleApp4.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/ConsoleApp4.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/ConsoleApp4.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/Debug/net7.0/ConsoleApp4.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp4/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp4/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/ConsoleApp6.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/ConsoleApp6.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/ConsoleApp6.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/ConsoleApp6.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/ConsoleApp6.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/ConsoleApp6.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/Debug/net7.0/ConsoleApp6.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp6/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp6/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/ConsoleApp7.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/ConsoleApp7.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/ConsoleApp7.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/ConsoleApp7.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/Debug/net7.0/ConsoleApp7.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp7/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp7/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/ConsoleApp8.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/ConsoleApp8.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/ConsoleApp8.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/ConsoleApp8.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/Debug/net7.0/ConsoleApp8.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp8/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp8/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/ConsoleApp9.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/ConsoleApp9.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/ConsoleApp9.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/ConsoleApp9.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/ConsoleApp9.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/ConsoleApp9.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/ConsoleApp9.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/Debug/net7.0/ConsoleApp9.csproj.AssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ConsoleApp9/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ConsoleApp9/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -286,29 +105,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.editor",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\biel\\AppData\\Local\\JetBrains\\Shared\\vAny\\DecompilerCache&quot;,
-      &quot;C:\\Users\\biel\\AppData\\Local\\JetBrains\\Shared\\vAny\\SourcesCache&quot;,
-      &quot;C:\\Users\\biel\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\biel\\AppData\\Local\\JetBrains\\Shared\\vAny\\DecompilerCache",
+      "C:\\Users\\biel\\AppData\\Local\\JetBrains\\Shared\\vAny\\SourcesCache",
+      "C:\\Users\\biel\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.ConsoleApp24">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -598,6 +417,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="ConsoleApp25" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp25/ConsoleApp25.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ConsoleApp26" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ConsoleApp26/ConsoleApp26.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="ConsoleApp3" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -723,6 +578,11 @@
       <workItem from="1689919301627" duration="289000" />
       <workItem from="1689922289264" duration="639000" />
       <workItem from="1689927436430" duration="4000" />
+      <workItem from="1689929256078" duration="462000" />
+      <workItem from="1690409782950" duration="65000" />
+      <workItem from="1690410065845" duration="29000" />
+      <workItem from="1690413774636" duration="30000" />
+      <workItem from="1690414113488" duration="2138000" />
     </task>
     <servers />
   </component>
