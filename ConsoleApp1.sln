@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# 
+#
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{515E4601-2333-410F-BD64-46BE75C80E30}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{AE257144-F8B4-47E2-BEE3-934488894B34}"
@@ -50,6 +50,18 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp26", "ConsoleApp26\ConsoleApp26.csproj", "{5D789A59-C1D4-41FE-9AEA-8009580910EF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp25", "ConsoleApp25\ConsoleApp25.csproj", "{EB818269-8C3E-4122-A575-DB63907669F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp27", "ConsoleApp27\ConsoleApp27.csproj", "{487E1D64-2B52-4AF1-B7CA-0D30AB1B30C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp28", "ConsoleApp28\ConsoleApp28.csproj", "{6F3407F5-A1A1-4018-9CF1-28432C1EBFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp29", "ConsoleApp29\ConsoleApp29.csproj", "{3FD89A69-4B16-4B35-89A6-4B765F46F2E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp30", "ConsoleApp30\ConsoleApp30.csproj", "{3C1BE51B-2374-4A08-B6C2-FC5424CEE019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp31", "ConsoleApp31\ConsoleApp31.csproj", "{33C6B975-D35B-47BC-9929-B908565C9AA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp32", "ConsoleApp32\ConsoleApp32.csproj", "{B4549E95-0B20-481F-98C2-2FE59C7ED223}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +165,30 @@ Global
 		{EB818269-8C3E-4122-A575-DB63907669F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB818269-8C3E-4122-A575-DB63907669F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB818269-8C3E-4122-A575-DB63907669F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{487E1D64-2B52-4AF1-B7CA-0D30AB1B30C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487E1D64-2B52-4AF1-B7CA-0D30AB1B30C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487E1D64-2B52-4AF1-B7CA-0D30AB1B30C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487E1D64-2B52-4AF1-B7CA-0D30AB1B30C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3407F5-A1A1-4018-9CF1-28432C1EBFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3407F5-A1A1-4018-9CF1-28432C1EBFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3407F5-A1A1-4018-9CF1-28432C1EBFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3407F5-A1A1-4018-9CF1-28432C1EBFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD89A69-4B16-4B35-89A6-4B765F46F2E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD89A69-4B16-4B35-89A6-4B765F46F2E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD89A69-4B16-4B35-89A6-4B765F46F2E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD89A69-4B16-4B35-89A6-4B765F46F2E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1BE51B-2374-4A08-B6C2-FC5424CEE019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1BE51B-2374-4A08-B6C2-FC5424CEE019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1BE51B-2374-4A08-B6C2-FC5424CEE019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1BE51B-2374-4A08-B6C2-FC5424CEE019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C6B975-D35B-47BC-9929-B908565C9AA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C6B975-D35B-47BC-9929-B908565C9AA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C6B975-D35B-47BC-9929-B908565C9AA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C6B975-D35B-47BC-9929-B908565C9AA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4549E95-0B20-481F-98C2-2FE59C7ED223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4549E95-0B20-481F-98C2-2FE59C7ED223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4549E95-0B20-481F-98C2-2FE59C7ED223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4549E95-0B20-481F-98C2-2FE59C7ED223}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A93A3B85-2150-4067-AFA0-70A9278E2F57} = {24032E12-6441-44BF-B405-BB745C22409F}

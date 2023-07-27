@@ -1,0 +1,14 @@
+C:\estudos-Csharp\ConsoleApp29\bin\Debug\net7.0\ConsoleApp29.deps.json
+C:\estudos-Csharp\ConsoleApp29\bin\Debug\net7.0\ConsoleApp29.dll
+C:\estudos-Csharp\ConsoleApp29\bin\Debug\net7.0\ConsoleApp29.pdb
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.GeneratedMSBuildEditorConfig.editorconfig
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.AssemblyInfoInputs.cache
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.AssemblyInfo.cs
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.csproj.CoreCompileInputs.cache
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.dll
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\refint\ConsoleApp29.dll
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.pdb
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ref\ConsoleApp29.dll
+C:\estudos-Csharp\ConsoleApp29\bin\Debug\net7.0\ConsoleApp29.exe
+C:\estudos-Csharp\ConsoleApp29\bin\Debug\net7.0\ConsoleApp29.runtimeconfig.json
+C:\estudos-Csharp\ConsoleApp29\obj\Debug\net7.0\ConsoleApp29.genruntimeconfig.cache
